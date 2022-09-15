@@ -9,7 +9,7 @@
 ```diff
 - Escolaridade
 ```
-* __Cursando o ensino superior__
+* __Cursando o ensino superior__ - Engenharia de Software
 * __Curso de inglês__ - Wizard Centro (porém não fluente)
 * __Curso de oratória__ - Cebrac
 
